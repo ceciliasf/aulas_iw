@@ -1,0 +1,27 @@
+.p{
+    color: aqua;
+    border: 2px solid yellow;
+    background-color: black;
+}
+
+.zero{
+    color: red;
+    border: 2px solid powderblue;
+    background-color: aquamarine;
+     
+}
+.one{
+    color: orange;
+    border: 2px solid palevioletred;
+    background-color: antiquewhite;
+}
+.two{
+    color: brown;
+    border: 2px solid olive;
+    background-color: midnightblue;
+}
+#titulo{
+    color: greenyellow;
+    border: 2px solid blueviolet;
+    background-color: bisque;
+}
